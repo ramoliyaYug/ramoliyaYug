@@ -1,9 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on exciting web and AI projects.<br>🌱 I’m learning advanced backend development and AI/ML.<br>💬 Ask me about Java, Web Development, and AI.<br>⚡ Fun fact: I love solving coding challenges on LeetCode! 🚀
+I am an **aspiring Android Developer** currently learning **Kotlin** and exploring **modern Android development**. I am working on building apps using **RecyclerView, RoomDB, and Jetpack components** to enhance my skills.  
+
+Alongside Android development, I am also learning **web development**, working with **HTML, CSS, JavaScript, and backend technologies like Node.js and Express.js**. I enjoy experimenting with new technologies and improving my problem-solving skills through coding challenges.  
+
+I am always eager to **learn, grow, and collaborate** on exciting projects. Let's connect and build something amazing together! 🚀  
+
 
 ---
 
 # 🚀 Tech Stack:
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -15,22 +22,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 
+
 ---
 
 # 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ramoliyaYug&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramoliyaYug&theme=radical" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoliyaYug&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-# 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramoliyaYug&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -42,11 +41,17 @@
 
 ---
 
+# 🏆 GitHub Trophies:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ramoliyaYug&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+---
+
 # 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yug-ramoliya-25a3b0308)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/ramoliyaYug)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/ramoliyaYug)
 
 ---
 
