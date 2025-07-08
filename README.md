@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-<img align="right" alt="Coding Cat" width="220" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl6OGdscDZvYW8yaTlwb3Z1eGd6c3hqZGlkYWpxY2MzZmlwNHA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
+<img align="right" alt="Coding Cat" width="210" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl6OGdscDZvYW8yaTlwb3Z1eGd6c3hqZGlkYWpxY2MzZmlwNHA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
 
 **Passionate Android Developer** with expertise in **Kotlin**, **Jetpack Compose**, and **Firebase**. As a **B.Tech (AI/ML)** student, I combine mobile development skills with strong algorithmic thinking, having solved **1000+ DSA problems** across multiple platforms.
 
