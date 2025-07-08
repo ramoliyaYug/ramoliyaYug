@@ -1,58 +1,58 @@
-# 💫 About Me:
-I am an **aspiring Android Developer** currently learning **Kotlin** and exploring **modern Android development**. I am working on building apps using **RecyclerView, RoomDB, and Jetpack components** to enhance my skills.  
 
-Alongside Android development, I am also learning **web development**, working with **HTML, CSS, JavaScript, and backend technologies like Node.js and Express.js**. I enjoy experimenting with new technologies and improving my problem-solving skills through coding challenges.  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hey there, I'm **Yug Ramoliya**
 
-I am always eager to **learn, grow, and collaborate** on exciting projects. Let's connect and build something amazing together! 🚀  
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&height=60&lines=Android+Developer+%7C+Kotlin+Expert;Problem+Solver+%7C+1000%2B+DSA+Solutions;AI%2FML+Student+%7C+B.Tech+Pursuing;Full+Stack+Developer+%7C+Modern+Tech+Stack" alt="Typing SVG" /> </div>
 
+----------
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-# 🚀 Tech Stack:
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+<img align="right" alt="Coding Cat" width="230" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl6OGdscDZvYW8yaTlwb3Z1eGd6c3hqZGlkYWpxY2MzZmlwNHA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
 
+**Passionate Android Developer** with expertise in **Kotlin**, **Jetpack Compose**, and **Firebase**. As a **B.Tech (AI/ML)** student, I combine mobile development skills with strong algorithmic thinking, having solved **1000+ DSA problems** across multiple platforms.
 
----
+🚀 **Core Focus**: Creating user-centric apps with **clean architecture (MVVM)**, **dependency injection**, and robust backend integrations
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramoliyaYug&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramoliyaYug&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoliyaYug&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+🔮 **Future Vision**: Exploring **Compose Multiplatform** for innovative cross-platform solutions
 
----
+⚡ **Philosophy**: Building apps that are both engineering-smart and delightfully user-friendly
 
-# 🔥 LeetCode Stats:
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ramoliyaYug?theme=dark&ext=heatmap" alt="LeetCode Stats" />
-</div>
+----------
 
----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Tech Arsenal**
 
-# 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramoliyaYug&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" />
-</div>
+<div>
 
----
+### 📱 **Mobile Development**
 
-# 🤝 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yug-ramoliya-25a3b0308)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/ramoliyaYug)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/ramoliyaYug)
+<p> <img src="https://skillicons.dev/icons?i=kotlin,java,firebase,ktor,gradle,sqlite" alt="Mobile Tech" /> </p>
 
----
+### 🌐 **Web Development**
 
-🔥 **Let's connect and build something awesome together!** 🚀
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,vite,tailwind,mongodb,mysql" alt="Web Tech" /> </p>
+
+### 🛠️ **Tools & Platforms**
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman,idea,webstorm,neovim,ubuntu,linux" alt="Tools" /> </p> </div>
+
+----------
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **GitHub Analytics**
+
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramoliyaYug&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9&icon_color=C77DFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoliyaYug&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=c9d1d9"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramoliyaYug&theme=radical&hide_border=true&background=0d1117&stroke=C77DFF&ring=FF6B9D&fire=FF6B9D&currStreakLabel=C77DFF" alt="GitHub Streak" /> </div>
+
+----------
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Coding Platforms**
+
+<div align="center"> <img src="https://leetcard.jacoblin.cool/ramoliyaYug?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" /> </div>
+
+----------
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Connect & Collaborate**
+
+<div align="center"> <a href="https://www.linkedin.com/in/yug-ramoliya-25a3b0308/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/ramoliyaYug"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://leetcode.com/u/ramoliyaYug/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> <a href="https://codeforces.com/profile/ramoliyayug55"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> <a href="https://www.codechef.com/users/ramoliyayug55"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> <a href="https://www.geeksforgeeks.org/user/mastermind57369/"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /> </a> <a href="https://medium.com/@ramoliyayug55"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a> <a href="https://www.instagram.com/ramoliyayug7/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:ramoliyayug55@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="tel:+918140385672"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /> </a> </div>
+
+----------
+
+<div align="center"> <i>⭐️ From <a href="https://github.com/ramoliyaYug">ramoliyaYug</a> with ❤️</i> </div>
