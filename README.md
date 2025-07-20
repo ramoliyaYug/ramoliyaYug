@@ -25,7 +25,7 @@
 
 ### 📱 **Mobile Development**
 
-<p> <img src="https://skillicons.dev/icons?i=kotlin,java,firebase,ktor,gradle,sqlite" alt="Mobile Tech" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=kotlin,java,firebase,gradle,sqlite,ktor,spring" alt="Mobile Tech" /> </p>
 
 ### 🌐 **Web Development**
 
