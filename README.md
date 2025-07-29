@@ -45,8 +45,17 @@
 ----------
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Coding Platforms**
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/ramoliyaYug?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
+    </td>
+    <td>
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ramoliyayug55" alt="Codeforces Stats" />
+    </td>
+  </tr>
+</table>
 
-<div align="center"> <img src="https://leetcard.jacoblin.cool/ramoliyaYug?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" /> </div>
 
 ----------
 
