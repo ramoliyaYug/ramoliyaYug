@@ -1,7 +1,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hey there, I'm **Yug Ramoliya**
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&height=60&lines=Android+Developer+%7C+Kotlin+Intermediate;Problem+Solver+%7C+1200%2B+DSA+Questions;AI%2FML+Student+%7C+Pursuing+B.Tech;Full+Stack+Developer+%7C+Modern+Tech+Stack" alt="Typing SVG" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=600&height=60&lines=Android+Developer+%7C+Kotlin+Intermediate;Problem+Solver+%7C+1300%2B+DSA+Questions;AI%2FML+Student+%7C+Pursuing+B.Tech;Full+Stack+Developer+%7C+Modern+Tech+Stack" alt="Typing SVG" /> </div>
 
 ----------
 
@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding Cat" width="210" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjl6OGdscDZvYW8yaTlwb3Z1eGd6c3hqZGlkYWpxY2MzZmlwNHA3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif">
 
-**Passionate Android Developer** with expertise in **Kotlin**, **Jetpack Compose**, and **Firebase**. As a **B.Tech (AI/ML)** student, I combine mobile development skills with strong algorithmic thinking, having solved **1200+ DSA problems** across multiple platforms.
+**Passionate Android Developer** with expertise in **Kotlin**, **Jetpack Compose**, and **Firebase**. As a **B.Tech (AI/ML)** student, I combine mobile development skills with strong algorithmic thinking, having solved **1300+ DSA problems** across multiple platforms.
 
 🚀 **Core Focus**: Creating user-centric apps with **clean architecture (MVVM)**, **dependency injection**, and robust backend integrations
 
@@ -64,5 +64,3 @@
 <div align="center"> <a href="https://www.linkedin.com/in/yug-ramoliya-25a3b0308/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/ramoliyaYug"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://leetcode.com/u/ramoliyaYug/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> <a href="https://codeforces.com/profile/ramoliyayug55"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> <a href="https://www.codechef.com/users/ramoliyayug55"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> <a href="https://www.geeksforgeeks.org/user/mastermind57369/"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /> </a> <a href="https://medium.com/@ramoliyayug55"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a> <a href="https://www.instagram.com/ramoliyayug7/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:ramoliyayug55@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="tel:+918140385672"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /> </a> </div>
 
 ----------
-
-<div align="center"> <i>⭐️ From <a href="https://github.com/ramoliyaYug">ramoliyaYug</a> with ❤️</i> </div>
