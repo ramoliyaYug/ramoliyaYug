@@ -113,7 +113,45 @@ Building scalable, user-centric applications that are both engineering-smart and
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Connect With Me**
 
-<div align="center"> <a href="https://www.linkedin.com/in/yug-ramoliya-25a3b0308/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/ramoliyaYug"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://leetcode.com/u/ramoliyaYug/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /> </a> <a href="https://codeforces.com/profile/ramoliyayug55"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /> </a> <a href="https://www.codechef.com/users/ramoliyayug55"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /> </a> <a href="https://www.geeksforgeeks.org/user/mastermind57369/"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /> </a> <a href="https://medium.com/@ramoliyayug55"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a> <a href="https://www.instagram.com/ramoliyayug7/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="mailto:ramoliyayug55@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="tel:+918140385672"> <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /> </a> </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/yug-ramoliya-25a3b0308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ramoliyaYug">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/ramoliyaYug/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/ramoliyayug55">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&amp;logo=codeforces&amp;logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/ramoliyayug55">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/mastermind57369/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="GeeksforGeeks" />
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/mastermind57369">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle" />
+  </a>
+
+  <a href="https://medium.com/@ramoliyayug55">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&amp;logo=medium&amp;logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.instagram.com/ramoliyaYug7/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:ramoliyayug55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+918140385672">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Phone" />
+  </a>
+</div>
+
 
 ---
 
