@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hey there, I'm **Yug Ramoliya**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=800&height=60&lines=Android+Developer+%7C+Kotlin+Expert;Full+Stack+Developer+%7C+Modern+Tech+Stack;System+Design+%7C+DevOps+%7C+Cloud+Architecture;AI%2FML+Engineer+%7C+Data+Science+Enthusiast;Problem+Solver+%7C+2272%2B+DSA+Questions+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=800&height=60&lines=Android+Developer+%7C+Kotlin+Expert;Full+Stack+Developer+%7C+Modern+Tech+Stack;System+Design+%7C+DevOps+%7C+Cloud+Architecture;AI%2FML+Engineer+%7C+Data+Science+Enthusiast;Problem+Solver+%7C+2292%2B+DSA+Questions+Solved" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RmMzVobTI0NXd1enVvcHVuajIyaHpqbG83bnQwejIxb25tenYwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
-**Passionate Android Developer** and **Full Stack Engineer** with expertise in **Kotlin**, **Jetpack Compose**, and modern web technologies. As a **B.Tech (AI/ML)** student, I blend mobile development prowess with deep algorithmic thinking, having conquered **2272+ DSA problems** across competitive platforms.
+**Passionate Android Developer** and **Full Stack Engineer** with expertise in **Kotlin**, **Jetpack Compose**, and modern web technologies. As a **B.Tech (AI/ML)** student, I blend mobile development prowess with deep algorithmic thinking, having conquered **2292+ DSA problems** across competitive platforms.
 
 ### 🎯 **What I Bring to the Table**
 
