@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hey there, I'm **Yug Ramoliya**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=800&height=60&lines=Android+Developer+%7C+Kotlin+Expert;Full+Stack+Developer+%7C+Modern+Tech+Stack;System+Design+%7C+DevOps+%7C+Cloud+Architecture;AI%2FML+Engineer+%7C+Data+Science+Enthusiast;Problem+Solver+%7C+2355%2B+DSA+Questions+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=800&height=60&lines=Android+Developer+%7C+Kotlin+Expert;Full+Stack+Developer+%7C+Modern+Tech+Stack;System+Design+%7C+DevOps+%7C+Cloud+Architecture;AI%2FML+Engineer+%7C+Data+Science+Enthusiast;Problem+Solver+%7C+2430%2B+DSA+Questions+Solved" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RmMzVobTI0NXd1enVvcHVuajIyaHpqbG83bnQwejIxb25tenYwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
-**Passionate Android Developer** and **Full Stack Engineer** with expertise in **Kotlin**, **Jetpack Compose**, and modern web technologies. As a **B.Tech (AI/ML)** student, I blend mobile development prowess with deep algorithmic thinking, having conquered **2355+ DSA problems** across competitive platforms.
+**Passionate Android Developer** and **Full Stack Engineer** with expertise in **Kotlin**, **Jetpack Compose**, and modern web technologies. As a **B.Tech (AI/ML)** student, I blend mobile development prowess with deep algorithmic thinking, having conquered **2430+ DSA problems** across competitive platforms.
 
 ### 🎯 **What I Bring to the Table**
 
@@ -35,7 +35,25 @@ Building scalable, user-centric applications that are both engineering-smart and
 ###  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZwbmFkN3BubjJuNmhrcmg0cHNteGRpanQya3N4cDZhdWptc2l2YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="15"> **Mobile Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,gradle,sqlite" alt="Mobile Tech" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,react,flutter,dart,gradle,firebase,ktor" alt="Mobile Tech" />
+</p>
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnk5dzY4NjNqOHhnN2pqNWkzNzBzb2s4bHNoMjFxODVteTJ3bjB1MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="16"> **Backend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,nodejs,express,flask,fastapi,django,spring,graphql,npm,pnpm,yarn,bun,redis,kafka,rabbitmq,supabase,prisma,elasticsearch,postgresql,sqlite,mysql,mongodb,cassandra,dynamodb" alt="Backend Tech" />
+</p>
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVvb3k4eTFkOG41dGp2bnphM3N4aTRldzhjOHZyeDhjNHdrYWgydiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="15"> **AI/ML & Data Science**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv,grafana,langchain,langgraph" alt="AI/ML Tech" />
+</p>
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUzY3VjYmNpYTZ4dWFzc2Uxc2JvMWl5MzdwaWcwbXB3bnhnZWRzbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif" width="15"> **DevOps & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,githubactions,jenkins,git,github,bash,powershell,nginx,cloudflare,kubernetes" alt="DevOps Tech" />
 </p>
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWdlcGkxbmdkbTd4dXUwM2liNmxmaDdocGhldnFscTVmY2dwbmRsbCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" width="15"> **Frontend Development**
@@ -44,28 +62,10 @@ Building scalable, user-centric applications that are both engineering-smart and
   <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nextjs,vite,bootstrap,tailwind" alt="Frontend Tech" />
 </p>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnk5dzY4NjNqOHhnN2pqNWkzNzBzb2s4bHNoMjFxODVteTJ3bjB1MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ln7z2eWriiQAllfVcn/giphy.gif" width="16"> **Backend Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,spring,graphql,django,flask,npm,mongodb,mysql,postgresql,sqlite,redis" alt="Backend Tech" />
-</p>
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVvb3k4eTFkOG41dGp2bnphM3N4aTRldzhjOHZyeDhjNHdrYWgydiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="15"> **AI/ML & Data Science**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,opencv" alt="AI/ML Tech" />
-</p>
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDUzY3VjYmNpYTZ4dWFzc2Uxc2JvMWl5MzdwaWcwbXB3bnhnZWRzbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif" width="15"> **DevOps & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,github,bash,nginx" alt="DevOps Tech" />
-</p>
-
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2htdGUwMWRrd2JkcWJ3MzFqYTN2N3Jlbm1hcWp0ajRqdDdkeTJyZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" width="15"> **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,idea,webstorm,neovim,postman,figma,linux,ubuntu,vercel,netlify,heroku,replit,cpp" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,pycharm,idea,webstorm,vim,neovim,postman,figma,linux,ubuntu,vercel,netlify,heroku,replit,cpp" alt="Tools" />
 </p>
 
 ---
